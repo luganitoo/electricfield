@@ -5,7 +5,7 @@
 
 Hey there!
 
-Welcome to my Physics 2 project! 🚀
+Welcome to my Physics 2 project! 🚀 (old project, 2018)
 
 In this project, I tackled a problem assigned by our professor where we had to create a program that transforms static physics values into dynamic ones. This means we can input different values and observe the corresponding outputs, rather than having fixed answers.
 
