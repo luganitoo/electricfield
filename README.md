@@ -1,4 +1,4 @@
-# Physics 2 - Eletric Field
+# Physics 2 - Electric Field
 
 ![Video Demo](fisica2.gif)
 
