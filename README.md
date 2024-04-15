@@ -1,5 +1,6 @@
 # Physics 2 - Eletric Field
 
+![Video Demo](fisica2.gif)
 Hey there!
 
 Welcome to my Physics 2 project! 🚀
@@ -13,3 +14,5 @@ To test out the program, simply open the 'Fisica2.exe' file located in the 'Wind
 I built this "game" using Unity, a tool I was comfortable with at the time. While the graphical representation isn't true to real life, it does look pretty cool if I do say so myself!
 
 Enjoy! 😊
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/Qm_Fxpbg9_E)](https://www.youtube.com/watch?v=Qm_Fxpbg9_E)
